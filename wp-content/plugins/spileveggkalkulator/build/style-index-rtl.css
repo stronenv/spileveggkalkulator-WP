@@ -10,12 +10,6 @@
 .wp-block-create-block-spileveggkalkulator {
   margin: 2rem;
 }
-.wp-block-create-block-spileveggkalkulator h3 {
-  margin-top: 0;
-  margin-bottom: 1.5rem;
-  text-align: center;
-  color: #333;
-}
 .wp-block-create-block-spileveggkalkulator .calculator-inputs {
   margin-bottom: 2rem;
 }
@@ -50,7 +44,6 @@
   font-size: 1rem;
 }
 .wp-block-create-block-spileveggkalkulator .calculator-inputs .input-group span {
-  color: #666;
   font-size: 0.9rem;
 }
 .wp-block-create-block-spileveggkalkulator .calculator-inputs .input-group .range-input-group {
