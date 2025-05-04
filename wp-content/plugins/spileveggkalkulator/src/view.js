@@ -96,8 +96,7 @@ function updateVisualization(slatCount, slatWidth, slatSpacing) {
 			height: 100%;
 			width: ${slatWidth * scaleFactor}px;
 			margin-right: ${slatSpacing * scaleFactor}px;
-			background-color: #8b4513;
-			border-radius: 2px;
+			background-color: #ba835c;
 			box-shadow: 1px 1px 3px rgba(0,0,0,0.2);
 		`;
 		slatContainer.appendChild(slat);
